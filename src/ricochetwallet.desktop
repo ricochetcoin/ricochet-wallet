@@ -1,0 +1,10 @@
+[Desktop Entry]
+Encoding=UTF-8
+Name=Ricochet Wallet
+Comment=Ricochet wallet
+Exec=Ricochet %U
+Terminal=false
+Type=Application
+Icon=ricochet
+MimeType=x-scheme-handler/ricochet;
+Categories=Office;Finance;
